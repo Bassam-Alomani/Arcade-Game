@@ -4,7 +4,7 @@
 
 - [Instructions](#instructions)
 - [Contributing](#contributing)
-- [Game Description](#Game Description)
+- [Game-Description](#Game Description)
 
 ## Instructions
 
@@ -20,7 +20,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-## Game Description
+## Game-Description
 Open `index.html` in your browser and then use your keyboard arrow keys to move the player right, left, up, and down. If you hit the bugs, then you will lose the game and then you will be back to your original position.
 
 However, if you pass all the enemies without having collision, then you will win and then you will be back to your original place to play again.
